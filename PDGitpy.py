@@ -1,2 +1,2 @@
 from math import*
-print(sqrt(255))
+print(sqrt(625))
